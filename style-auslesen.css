@@ -1,0 +1,28 @@
+.top-text{
+margin-left: 30px;
+}
+
+.o-list{
+    width: 300px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-left: 30px;
+    background-color: coral;
+}
+
+.list-item{
+ margin-top: 20px;
+ margin-bottom: 20px;
+ font-size: 19px;
+}
+
+.text{
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.bottom-text{
+    font-size: 17px;
+    margin-left: 30px;
+}
